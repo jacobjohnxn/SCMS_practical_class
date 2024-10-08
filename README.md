@@ -30,7 +30,7 @@ Visualizations were created to better understand the data using libraries such a
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/jacobjohnxn/scm21cd030placemnet.git
+   git clone https://github.com/jacobjohnxn/SCMS_practical_class.git
 2. Navigate into the directory:
    ```bash
    cd python
